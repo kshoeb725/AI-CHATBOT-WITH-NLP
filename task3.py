@@ -19,3 +19,14 @@ chatbot =Chat(pairs)
 chatbot.converse()
 
 #to stop the chatbhot Type Quit
+
+''' below are the few question to ask this chatbot 
+1.hello
+2.I am Fine
+3.What do you call yoursel
+4.what is your Name
+5.what is your age
+6.thanks chitti
+7.bye chitti
+
+'''
