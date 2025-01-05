@@ -10,7 +10,8 @@
 
 **Mentor**: Neela Santhosh Kumar
 
-**PROJECT**: API INTEGRATION AND DATA VISUALIZATION
+**PROJECT**: AI CHATBOT WITH NLP
+
 
 ###  Overview of the Code
 
