@@ -20,7 +20,7 @@ This Python script demonstrates the creation of a basic chatbot using the Natura
 
 ### OUPUT OF THE TASK
 
-![task1](https://github.com/user-attachments/assets/d54f5614-b9fd-4723-8b7e-294472feb706)
+![task3](https://github.com/user-attachments/assets/4fc18251-1321-44ad-bbe2-bc5e1ee428df)
 
 ---
 
